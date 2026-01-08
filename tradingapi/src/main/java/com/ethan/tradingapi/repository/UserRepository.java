@@ -1,6 +1,6 @@
-package main.java.com.ethan.tradingapi;
+package com.ethan.tradingapi.repository;
 
-import com.yourname.trackerapi.model.User;
+import com.ethan.tradingapi.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import java.util.Optional;
 

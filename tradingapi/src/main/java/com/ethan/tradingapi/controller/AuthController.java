@@ -1,7 +1,7 @@
-package main.java.com.ethan.tradingapi;
+package com.ethan.tradingapi.controller;
 
-import com.yourname.trackerapi.model.User;
-import com.yourname.trackerapi.repository.UserRepository;
+import com.ethan.tradingapi.model.User;
+import com.ethan.tradingapi.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.web.bind.annotation.*;

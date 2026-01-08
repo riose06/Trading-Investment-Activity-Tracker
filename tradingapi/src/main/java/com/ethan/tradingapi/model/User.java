@@ -1,4 +1,4 @@
-package main.java.com.ethan.tradingapi;
+package com.ethan.tradingapi.model;
 
 import jakarta.persistence.*;
 
