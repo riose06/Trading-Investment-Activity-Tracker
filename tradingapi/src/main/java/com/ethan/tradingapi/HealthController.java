@@ -1,4 +1,4 @@
-package main.java.com.ethan.tradingapi.controller;
+package main.java.com.ethan.tradingapi;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
